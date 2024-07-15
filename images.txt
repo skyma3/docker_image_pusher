@@ -5,4 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 outlinewiki/outline:0.73.1
 minio/minio:RELEASE.2022-11-17T23-20-09Z
-minio/mc:RELEASE.2022-11-17T23-20-09Z
+minio/mc:RELEASE.2022-11-17T21-20-39Z
